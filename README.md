@@ -5,11 +5,11 @@ created by Greg Ross
 ---
 
 
-![Range Finder](https://github.com/gregross/excel-range-finder/blob/master/images/Controls.PNG)(http://www.grvisualisation.50webs.com/excelrangefinder.html)
+![Range Finder](https://github.com/gregross/excel-range-finder/blob/master/images/Controls.PNG)
 
 `RangeFinder` is an Excel add-in for easing navigation within large Excel worksheets that contain lots of data. All of the data ranges are represented as coloured blocks in the `RangeFinder` window and all are simultaneously visible. One can immediately navigate to any range simply by selecting it in the `RangeFinder` window. The current Excel view port is represented on the window and can be dragged to quickly pan and scroll the Excel view thus circumventing the need for tiresome horizontal and vertical scrolling.
 
-![](https://github.com/gregross/excel-range-finder/blob/master/images/RangeFinder.PNG)(http://www.grvisualisation.50webs.com/excelrangefinder.html)
+![](https://github.com/gregross/excel-range-finder/blob/master/images/RangeFinder.PNG)
 
 ### Installation ###
 To install, copy the downloaded XLA file to _C:\Documents and Settings\<your username>\Application Data\Microsoft\Addins_. Then, open Excel, select the **"Tools"** menu followed by the **"Add-ins..."** option. When the Add-ins dialogue is displayed, press the **"Browse"** button and select the **`RangeFinder`.xla** file. This will place a **"Visualisation"** menu in Excel that can be selected to open the add-in.
